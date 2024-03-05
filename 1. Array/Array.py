@@ -1,4 +1,4 @@
-class Array():
+class array():
     """Class that replicates the List class from the Python Collection
     """
     
@@ -96,7 +96,7 @@ class Array():
         
 if __name__ == '__main__':
     
-    arr = Array([1,2,3,4,5])
+    arr = array([1,2,3,4,5])
     
     # Indexing has a Time Complexity O(1)
     arr[0] = 1
@@ -106,6 +106,7 @@ if __name__ == '__main__':
     
     # Search by value has a time Complexity O(n)
     arr.indexOf(2)
+    
     if 2 in arr : print(True)
     
     # Deleting has a Time Complexity O(n)

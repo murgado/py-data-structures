@@ -34,10 +34,8 @@ As per the the characteristics of each structure, these topics are distributed b
 
 |Structure | Insertion at the beginning  | Insertion in the middle | Insertion at the end | Removal at the beginning  | Removal in the middle | Removal at the end | Search | Traversal
 --- | --- | ---|  ---| --- | ---|  ---| --- | ---|
-Array | --- | ---|  ---| --- | ---|  ---| --- | ---|
-Linked lists | --- | ---|  ---| --- | ---|  ---| --- | ---|
-Simple | --- | ---|  ---| --- | ---|  ---| --- | ---|
-Double | --- | ---|  ---| --- | ---|  ---| --- | ---|
+Array | O(n)| O(n)| O(1) (+ size increase)| O(n)| O(n)| O(1) (+ size increase)| O(1) / O (n) | O(n)|
+Linked lists | O(1) | O(n)|  O(n)| O(1) | O(n)|  O(n)| O(n) | O(n) |
 Stacks | --- | ---|  ---| --- | ---|  ---| --- | ---|
 Queues | --- | ---|  ---| --- | ---|  ---| --- | ---|
 Set | --- | ---|  ---| --- | ---|  ---| --- | ---|
