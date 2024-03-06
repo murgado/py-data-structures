@@ -1,9 +1,9 @@
-
+This is a Python project aimed towards remembering all of the data structures commonly used in the implementation of problem solving algorithms, each structure will display not only the resultant scheme written in a Python file, but a Jupyter notebook in which every function is explained using a friendly approach.
 
 ![alt text](head.jpg "Title")
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=python)![ver](https://img.shields.io/badge/Ver._1-blue?style=for-the-badge)
 
-This is a Python project aimed towards remembering all of the data structures commonly used in the implementation of problem solving algorithms, along with the scheme of such structures, this document provides a table in which the time complexity of the most common operations are stated.
+
 
 ## Contents
 
